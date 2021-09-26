@@ -17,7 +17,7 @@
   ## Usage
 
   Users can utilize this program to quickly generate a professional README.md file within seconds.
-  [Application walkthrough demonstration]
+  [Application walkthrough demonstration] (https://drive.google.com/file/d/12UaDrNF0QZUp_LEzmQtDqgT4atVc-xJs/view?usp=sharing)
 
   ## Questions
 

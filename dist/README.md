@@ -1,10 +1,10 @@
-# README-GENERATOR
+# Name of project
   
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
   ## Description
 
-  Clone the repo to your local enviroment. You must have Node installed on your system in order for this program to work. Simply navigate in the command line to the root directory of the project and type "node index" to start the program. Answer the questions as well as you can and a README.md file will be generated and placed in the dist folder
+  description
 
   ## Table of Contents
 
@@ -17,23 +17,23 @@
 
   ## Installation
 
-  
+  installation
 
   ## Usage
 
-  make readme 
+  usage info
 
   ## License
 
-  License type: Mozilla Public License 2.0
+  License type: Eclipse Public License 1.0
 
   ## Contributing
 
-  
+  guidelines
 
   ## Tests
 
-  This is how to test
+  this is how to test
 
   ## Questions
 
